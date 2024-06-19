@@ -1,0 +1,15 @@
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.exe
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.deps.json
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.runtimeconfig.json
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.dll
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.pdb
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.AssemblyInfoInputs.cache
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.AssemblyInfo.cs
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.csproj.CoreCompileInputs.cache
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.sourcelink.json
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.dll
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\refint\ExerciciosFase1.dll
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.pdb
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.genruntimeconfig.cache
+D:\CursoCS\CSFundamentos1\ExerciciosFase1\obj\Debug\net8.0\ref\ExerciciosFase1.dll

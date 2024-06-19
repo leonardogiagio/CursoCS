@@ -9,7 +9,9 @@ uint valor4 = 2147483647;
 long valor5 = 21474836489;
 const int VALOR6 = 999;
 
-int var1 = 8, var2 = 9, var3 = 10;
+int var1 = 8, 
+    var2 = 9, 
+    var3 = 10;
 
 Console.WriteLine(valor1); 
 Console.WriteLine(valor2); 

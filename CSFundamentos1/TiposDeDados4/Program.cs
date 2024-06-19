@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Definindo variáveis do tipo string e boject e dynamic!");
+﻿using System.Xml;
+
+Console.WriteLine("Definindo variáveis do tipo string e boject e dynamic!");
 Console.WriteLine();
 
 string nome = "Curso C#";

@@ -1,0 +1,15 @@
+D:\CursoCS\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.exe
+D:\CursoCS\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.deps.json
+D:\CursoCS\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.runtimeconfig.json
+D:\CursoCS\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.dll
+D:\CursoCS\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.pdb
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.AssemblyInfoInputs.cache
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.AssemblyInfo.cs
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.csproj.CoreCompileInputs.cache
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.sourcelink.json
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.dll
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\refint\SaidaDados1.dll
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.pdb
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.genruntimeconfig.cache
+D:\CursoCS\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\ref\SaidaDados1.dll

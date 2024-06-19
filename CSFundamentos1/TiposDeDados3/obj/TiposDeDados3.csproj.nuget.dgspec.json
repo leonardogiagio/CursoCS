@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {}
+    "D:\\Cursos\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {}
   },
   "projects": {
-    "D:\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {
+    "D:\\Cursos\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
+        "projectUniqueName": "D:\\Cursos\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
         "projectName": "TiposDeDados3",
-        "projectPath": "D:\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
+        "projectPath": "D:\\Cursos\\CursoCS\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
         "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-        "outputPath": "D:\\CursoCS\\CSFundamentos1\\TiposDeDados3\\obj\\",
+        "outputPath": "D:\\Cursos\\CursoCS\\CSFundamentos1\\TiposDeDados3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft Visual Studio\\2022\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
