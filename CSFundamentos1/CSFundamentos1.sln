@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos1", "Conver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos2", "ConversaoDeTipos2\ConversaoDeTipos2.csproj", "{AB790CDC-D98E-41C8-96B0-71BE3DBB02D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{90315636-9723-44A1-A9B9-C65DCB14365D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{AB790CDC-D98E-41C8-96B0-71BE3DBB02D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB790CDC-D98E-41C8-96B0-71BE3DBB02D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB790CDC-D98E-41C8-96B0-71BE3DBB02D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90315636-9723-44A1-A9B9-C65DCB14365D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90315636-9723-44A1-A9B9-C65DCB14365D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90315636-9723-44A1-A9B9-C65DCB14365D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90315636-9723-44A1-A9B9-C65DCB14365D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
