@@ -1,0 +1,14 @@
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\bin\Debug\net8.0\6LoopDoWhile.exe
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\bin\Debug\net8.0\6LoopDoWhile.deps.json
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\bin\Debug\net8.0\6LoopDoWhile.runtimeconfig.json
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\bin\Debug\net8.0\6LoopDoWhile.dll
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\bin\Debug\net8.0\6LoopDoWhile.pdb
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.AssemblyInfoInputs.cache
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.AssemblyInfo.cs
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.csproj.CoreCompileInputs.cache
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.dll
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\refint\6LoopDoWhile.dll
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.pdb
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\6LoopDoWhile.genruntimeconfig.cache
+D:\CursoCS\1EstruturaIf\6LoopDoWhile\obj\Debug\net8.0\ref\6LoopDoWhile.dll

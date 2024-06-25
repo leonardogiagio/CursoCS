@@ -1,0 +1,14 @@
+D:\CursoCS\1EstruturaIf\1EstruturaIf\bin\Debug\net8.0\1EstruturaIf.exe
+D:\CursoCS\1EstruturaIf\1EstruturaIf\bin\Debug\net8.0\1EstruturaIf.deps.json
+D:\CursoCS\1EstruturaIf\1EstruturaIf\bin\Debug\net8.0\1EstruturaIf.runtimeconfig.json
+D:\CursoCS\1EstruturaIf\1EstruturaIf\bin\Debug\net8.0\1EstruturaIf.dll
+D:\CursoCS\1EstruturaIf\1EstruturaIf\bin\Debug\net8.0\1EstruturaIf.pdb
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.AssemblyInfoInputs.cache
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.AssemblyInfo.cs
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.csproj.CoreCompileInputs.cache
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.dll
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\refint\1EstruturaIf.dll
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.pdb
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\1EstruturaIf.genruntimeconfig.cache
+D:\CursoCS\1EstruturaIf\1EstruturaIf\obj\Debug\net8.0\ref\1EstruturaIf.dll

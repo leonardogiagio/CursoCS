@@ -1,0 +1,14 @@
+D:\CursoCS\1EstruturaIf\4Switch\bin\Debug\net8.0\4Switch.exe
+D:\CursoCS\1EstruturaIf\4Switch\bin\Debug\net8.0\4Switch.deps.json
+D:\CursoCS\1EstruturaIf\4Switch\bin\Debug\net8.0\4Switch.runtimeconfig.json
+D:\CursoCS\1EstruturaIf\4Switch\bin\Debug\net8.0\4Switch.dll
+D:\CursoCS\1EstruturaIf\4Switch\bin\Debug\net8.0\4Switch.pdb
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.AssemblyInfoInputs.cache
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.AssemblyInfo.cs
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.csproj.CoreCompileInputs.cache
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.dll
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\refint\4Switch.dll
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.pdb
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\4Switch.genruntimeconfig.cache
+D:\CursoCS\1EstruturaIf\4Switch\obj\Debug\net8.0\ref\4Switch.dll
