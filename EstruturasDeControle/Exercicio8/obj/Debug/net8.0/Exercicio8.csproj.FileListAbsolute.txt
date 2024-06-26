@@ -1,0 +1,15 @@
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\bin\Debug\net8.0\Exercicio8.exe
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\bin\Debug\net8.0\Exercicio8.deps.json
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\bin\Debug\net8.0\Exercicio8.runtimeconfig.json
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\bin\Debug\net8.0\Exercicio8.dll
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\bin\Debug\net8.0\Exercicio8.pdb
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.AssemblyInfoInputs.cache
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.AssemblyInfo.cs
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.csproj.CoreCompileInputs.cache
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.sourcelink.json
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.dll
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\refint\Exercicio8.dll
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.pdb
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\Exercicio8.genruntimeconfig.cache
+D:\Cursos\CursoCS\EstruturasDeControle\Exercicio8\obj\Debug\net8.0\ref\Exercicio8.dll
